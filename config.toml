@@ -1,0 +1,27 @@
+baseURL = 'http://brianburrous.com/'
+languageCode = 'en-us'
+title = 'Brian Burrous'
+theme = "lekh"
+
+[params]
+Name = "Brian Burrous"
+About = "We're not here because we're free. We're here because we're __not__ free. There's no escaping reason. No denying purpose. Because as we both know without purpose, we would not exist.<br/> Read more [here](https://matrix.fandom.com/wiki/Agent_Smith)"
+Email = "brburrous@g.ucla.edu"
+Resume = "resume.pdf" # Add the filename with file extension.
+PostLimit = 4 # Sets the number of posts to display on the front page
+GoatCounterCode = ""
+
+[[params.profiles]]
+name = "GitHub"
+url = "https://github.com/brburrous"
+
+[[params.profiles]]
+name = "Twitter"
+url = "twitter.com/brian_burrous"
+
+
+[[params.profiles]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/brian-burrous/"
+
+
